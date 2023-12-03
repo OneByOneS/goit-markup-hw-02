@@ -22,19 +22,23 @@ ul {
 .header {
 }
 
-.header-link-logo-first-part {
-  color: #4d5ae5;
-}
-
 .header-link-logo {
-  color: #2e2f42;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+
+.header-link-logo-part {
+  color: #2e2f42;
+}
+
+.header-link-logo-first-part {
+  color: #4d5ae5;
 }
 
 .header-nav-links li {
