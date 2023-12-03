@@ -37,17 +37,39 @@ ul {
   color: #2e2f42;
 }
 
-.header-link-logo-first-part {
-  color: #4d5ae5;
-}
-
-.header-nav-links li {
+.studio {
   color: #2e2f42;
   font-weight: 500;
 }
-
+.studio:hover {
+  color: #404bbf;
+}
+.studio:focus {
+  color: #404bbf;
+}
+.portfolio {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.portfolio:hover {
+  color: #404bbf;
+}
+.portfolio:focus {
+  color: #404bbf;
+}
+.contacts {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.contacts:hover {
+  color: #404bbf;
+}
+.contacts:focus {
+  color: #404bbf;
+}
 .adress {
   color: #434455;
+  font-style: normal;
 }
 /* First section */
 .hero-section {
