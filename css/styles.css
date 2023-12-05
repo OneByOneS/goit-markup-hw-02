@@ -107,6 +107,9 @@ ul {
 .team-section {
   background: #f4f4fd;
 }
+.team-section-list {
+  background-color: #ffffff;
+}
 
 .team-section-title {
   color: #2e2f42;
@@ -114,7 +117,7 @@ ul {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 11.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
@@ -130,5 +133,29 @@ ul {
 .team-section-subject-item {
   color: #434455;
   text-align: center;
+  letter-spacing: 0.02em;
+}
+
+/* 4 section */
+.portfolio-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.portfolio-section-subject {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-section-subject-item {
+  color: #434455;
   letter-spacing: 0.02em;
 }
