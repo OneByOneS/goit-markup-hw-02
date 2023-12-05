@@ -63,10 +63,8 @@ ul {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.header-mail:hover,
-.header-phone:hover,
-.header-mail:focus,
-.header-phone:focus {
+.header-adress-link-item:hover,
+.header-adress-link-item:focus {
   color: #404bbf;
 }
 
