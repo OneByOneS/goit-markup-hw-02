@@ -37,32 +37,24 @@ ul {
   color: #2e2f42;
 }
 
-.studio {
+.header-list {
   color: #2e2f42;
   font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
-.portfolio {
-  color: #2e2f42;
-  font-weight: 500;
-}
-
-.contacts {
-  color: #2e2f42;
-  font-weight: 500;
-}
-
-.studio:hover,
-.studio:focus,
-.portfolio:hover,
-.portfolio:focus,
-.contacts:hover,
-.contacts:focus {
+.header-link:hover,
+.header-link:focus {
   color: #404bbf;
 }
-.adress {
+.header-adress {
   color: #434455;
   font-style: normal;
+  letter-spacing: 0.02em;
+}
+.header-mail:hover,
+.header-phone:hover {
+  color: #404bbf;
 }
 /* First section */
 .hero-section {
