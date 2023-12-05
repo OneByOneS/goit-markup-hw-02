@@ -43,18 +43,14 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.header-link:hover {
-  color: #404bbf;
-}
-
 .header-item {
   color: #2e2f42;
   font-weight: 500;
   letter-spacing: 0.02em;
 }
 
-.header-link-studio:hover,
-.header-link-studio:focus {
+.header-link:hover,
+.header-link:focus {
   color: #404bbf;
 }
 
